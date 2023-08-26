@@ -3,7 +3,7 @@
 
 
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=0shree005&" alt="0shree005" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=0shree005&" alt="0shree005" /></p>
 
 
 ![Shree's GitHub stats](https://github-readme-stats.vercel.app/api?username=0Shree005&theme=transparent&show_icons=true&rank_icon=github)
