@@ -18,13 +18,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/0shree005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0shree005" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shree-pingale-0306b9223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shree-pingale-0306b9223" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/22081963" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22081963" height="30" width="40" /></a>
-<a href="https://instagram.com/0shree05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="0shree05" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/shreepingale12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shreepingale12" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/0shree05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="0shree05" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/0shree05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="0shree05" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/22081963" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22081963" height="30" width="40" /></a>
+<a href="https://twitter.com/0shree005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0shree005" height="30" width="40" /></a>
+<a href="https://instagram.com/0shree05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="0shree05" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
