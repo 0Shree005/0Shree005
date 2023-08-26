@@ -3,7 +3,7 @@
 
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=0Shree005&theme=transparent&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&card_width=450)](https://git.io/streak-stats)![Shree's GitHub stats](https://github-readme-stats.vercel.app/api?username=0Shree005&theme=transparent&show_icons=true&rank_icon=github&card_width=500px&include_all_commits=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=0Shree005&theme=transparent&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&card_width=450)](https://git.io/streak-stats)![Shree's GitHub stats](https://github-readme-stats.vercel.app/api?username=0Shree005&theme=transparent&show_icons=true&rank_icon=github&card_width=350px&include_all_commits=true)
 
 
 
