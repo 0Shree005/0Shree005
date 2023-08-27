@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning *CS50x, CS50p, CS50W*
 
-- 👨‍💻 All of my projects are available at [https://0shree005.github.io/portfolio/](https://0shree005.github.io/portfolio/target="_blank")
+- 👨‍💻 All of my projects are available at [https://0shree005.github.io/portfolio/](https://0shree005.github.io/portfolio/)
 
 - 💬 Ask me about...*C, Python, HTML, CSS, JavaScript, SQL, Flask*
 
