@@ -8,11 +8,11 @@
 
 - 🌱 I’m currently learning *CS50x, CS50p, CS50W*
 
-- 👨‍💻 All of my projects are available at [https://0shree005.github.io/portfolio/](https://0shree005.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [shree.com](https://0shree005.github.io/portfolio/)
 
 - 💬 Ask me about...*C, Python, HTML, CSS, JavaScript, SQL, Flask*
 
-- 📫 How to reach me :- *shreepingale12@gmail.com*
+- 📫 How to reach me :- [*shreepingale12@gmail.com*](https://mail.google.com/mail/u/0/#inbox?compose=new/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
