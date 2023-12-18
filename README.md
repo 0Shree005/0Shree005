@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working on *My Personal Website*
 
-- 🌱 I’m currently learning *CS50x, CS50p, CS50W*
+- 🌱 I’m currently learning *Javascript, node.js*
 
 - 👨‍💻 All of my projects are available at [shree.com](https://0shree005.github.io/portfolio/)
 
-- 💬 Ask me about...*C, Python, HTML, CSS, JavaScript, SQL, Flask*
+- 💬 Ask me about...*C, Python, HTML, CSS,*
 
 - 📫 How to reach me :- [*shreepingale12@gmail.com*](https://mail.google.com/mail/u/0/#inbox?compose=new/)
 
