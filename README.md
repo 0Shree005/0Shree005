@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [shree.com](https://0shree005.github.io/portfolio/)
 
-- 💬 Ask me about...*C, Python, HTML, CSS, SQL*
+- 💬 Ask me about...*C, Python, HTML, CSS, SQL, Javascript*
 
 - 📫 How to reach me :- [*shreepingale12@gmail.com*](https://mail.google.com/mail/u/0/#inbox?compose=new/)
 
