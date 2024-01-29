@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on *My Personal Website*
 
-- 🌱 I’m currently learning *Javascript, node.js, express.js*
+- 🌱 I’m currently learning *MongoDB, React, Express*
 
 - 👨‍💻 All of my projects are available at [shree.com](https://0shree005.github.io/portfolio/)
 
