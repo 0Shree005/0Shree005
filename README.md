@@ -4,13 +4,13 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=0Shree005&theme=transparent&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&card_width=1000,align="center")](https://git.io/streak-stats)
 
 
-- 🔭 I’m currently working on *My Personal Website*
+- 🔭 I’m currently working on *My New Personal `3D` Website 0_0*
 
-- 🌱 I’m currently learning *MongoDB, React, Express*
+- 🌱 I’m currently learning *Three.js, WebGL*
 
 - 👨‍💻 All of my projects are available at [shree.com](https://0shree005.github.io/portfolio/)
 
-- 💬 Ask me about...*C, Python, HTML, CSS, SQL, Javascript*
+- 💬 Ask me about...*C, Python, HTML, CSS, SQL, Javascript, Blender*
 
 - 📫 How to reach me :- [*shreepingale12@gmail.com*](https://mail.google.com/mail/u/0/#inbox?compose=new/)
 
