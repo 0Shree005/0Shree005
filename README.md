@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on *My New Personal `3D` Website 0_0*
 
-- 🌱 I’m currently learning *Three.js, WebGL*
+- 🌱 I’m currently learning *React, Three.js, WebGL*
 
 - 👨‍💻 All of my projects are available at [shree.com](https://0shree005.github.io/portfolio/)
 
