@@ -4,13 +4,14 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=0Shree005&theme=transparent&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&card_width=1000,align="center")](https://git.io/streak-stats)
 
 
-- 🔭 I’m currently working on *My New Personal `3D` Website 0_0*
+- 🔭 I’m currently working on *My New Personal `3D` Website* and [**Galaxy Generator!**](https://galaxy-0-0.vercel.app/)
 
-- 🌱 I’m currently learning *React, Three.js, WebGL*
+- 🌱 I’m currently learning *React-three-fiber, Three.js, WebGL*
 
-- 👨‍💻 All of my projects are available at [shree.com](https://0shree005.github.io/portfolio/)
+- 👨‍💻 Check out my latest project, [**Galaxy Generator!**](https://galaxy-0-0.vercel.app/)
 
-- 💬 Ask me about...*C, Python, HTML, CSS, SQL, Javascript, Blender*
+- 💬 Ask me about...*Blender, Javascript, Python, C, SQL HTML, CSS*
+
 
 - 📫 How to reach me :- [*shreepingale12@gmail.com*](https://mail.google.com/mail/u/0/#inbox?compose=new/)
 
