@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on *My New Personal `3D` Website* and [**Galaxy Generator!**](https://galaxy-0-0.vercel.app/)
 
-- 🌱 I’m currently learning *React-three-fiber, Three.js, WebGL*
+- 🌱 I’m currently learning *Three.js, GLSL Shaders*
 
 - 👨‍💻 Check out my latest project, [**Galaxy Generator!**](https://galaxy-0-0.vercel.app/)
 
