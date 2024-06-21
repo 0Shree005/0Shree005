@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working on *My New Personal `3D` Website* and [**Galaxy Generator!**](https://galaxy-0-0.vercel.app/)
 
-- 🌱 I’m currently learning *Three.js, GLSL Shaders, MongoDB*
+- 🌱 I’m currently learning *React Three Fiber, GLSL Shaders, PostgreSQL*
 
 - 👨‍💻 Check out my latest project, [**Galaxy Generator!**](https://galaxy-0-0.vercel.app/)
 
-- 💬 Ask me about...*Blender, Javascript, Python, C, SQL HTML, CSS*
+- 💬 Ask me about...*Blender, Javascript, Python, C, MongoDB, SQL HTML, CSS*
 
 
 - 📫 How to reach me :- [*shreepingale12@gmail.com*](https://mail.google.com/mail/u/0/#inbox?compose=new/)
