@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://portfolio-khaki-xi-45.vercel.app/" ,target="_blank"><img align="center" src="https://portfolio-khaki-xi-45.vercel.app/icon/earth.png" alt="0shree05" height="30" width="32" /></a>
+<a href="https://www.0shree005.tech/" ,target="_blank"><img align="center" src="https://portfolio-khaki-xi-45.vercel.app/icon/earth.png" alt="0shree05" height="30" width="32" /></a>
 <a href="https://linkedin.com/in/shree-pingale-0306b9223" target=" blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shree-pingale-0306b9223" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/shreepingale12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shreepingale12" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/0shree05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="0shree05" height="30" width="40" /></a>
