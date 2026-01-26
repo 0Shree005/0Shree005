@@ -2,7 +2,6 @@
 <h3 align="center">Passionate about learning languages, and exploring creative possibilities with them.</h3>
 <br>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=0Shree005&theme=transparent&border_radius=5&mode=weekly&date_format=j%20M%5B%20Y%5D&border=30363D&card_width=820" alt="GitHub Streak" />
   <a href="https://github.com/jstrieb/github-stats"><img src="https://raw.githubusercontent.com/0Shree005/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="Overview Stats" /><a/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/jstrieb/github-stats"><img src="https://raw.githubusercontent.com/0Shree005/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="Languages" /><a/>
